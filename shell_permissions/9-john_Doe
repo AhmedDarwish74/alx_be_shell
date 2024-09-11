@@ -1,3 +1,0 @@
-#!/bin/bash
-# Set the mode of the file hello to -rwxr-x-wx
-chmod u=rwx,g=rx,o=wx hello
